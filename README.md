@@ -4,7 +4,7 @@
 - I'm currently working on an auto-detailing website. 🔭
 - I’m currently learning Python and React.Js. 🌱
 - I am looking for an entry level Software Engineering role. :computer:
-- You can reach me at: **stephenvogelmeier@gmail.com 740-408-2826** :iphone:
+- You can reach me at: **stephenvogelmeier@gmail.com** :iphone:
 
 <!--
 **stephenv13/stephenv13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
