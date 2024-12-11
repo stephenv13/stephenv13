@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - I'm a Software Engineer with previous experience working as a Mechanical Engineer. :wrench:
-- I'm currently working on an iOS cooking app. 🔭
-- I’m currently learning React-Native. 🌱
+- I'm currently working on an a raffle/group buy web application. 🔭
 - I currently work full-time for Remarcable. :computer:
 - You can reach me at: **stephenvogelmeier@gmail.com** :iphone:
 
